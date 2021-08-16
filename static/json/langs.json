@@ -1,0 +1,11 @@
+[
+    {"name":"Python", "val":5, "t": 0},
+    {"name":"Java", "val":3, "t":"2*Math.PI/8"},
+    {"name":"HTML/CSS", "val":3, "t":"4*Math.PI/8"},
+    {"name":"JavaScript", "val":4, "t":"6*Math.PI/8"},
+    {"name":"R", "val":5, "t":"8*Math.PI/8"},
+    {"name":"Rust", "val":2, "t":"10*Math.PI/8"},
+    {"name":"SQL", "val":4, "t":"12*Math.PI/8"},
+    {"name":"Spark", "val":4, "t":"14*Math.PI/8"},
+    {"name":"python", "val":5, "t": "2*Math.PI"}
+]

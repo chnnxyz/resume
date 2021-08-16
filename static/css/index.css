@@ -1,0 +1,56 @@
+body{
+    background-color: #282829;
+    text-align: center;
+}
+a {   
+    color: #4c4c4e;   
+}
+.fbox1 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+a:active {
+    color: #4c4c4e;
+}
+
+a:hover {
+    color: #4c4c4e;
+}
+.title{
+    color: #4c4c4e;
+}
+
+.subtitle{
+    color: #9e9ea2;
+}
+
+.subtitle1{
+    color: #9e9ea2;
+}
+
+.title1{
+    color: ghostwhite;
+}
+
+.tooltip {
+    position: absolute;
+    width: 100px;
+    /* height: 70px; */
+    padding: 10px;
+    font: 12px sans-serif;
+    text-align: center;
+    color: white;
+    background: #9e9ea2d7;
+    
+    border: 0;
+    border-radius: 1px;
+  }
+
+#titlecard{
+    background-color: #282829;
+}
