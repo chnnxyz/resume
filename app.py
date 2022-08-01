@@ -9,3 +9,7 @@ def index():
 @app.route('/cv', methods=['GET'])
 def resume():
     return render_template('CV.html')
+
+@app.route('/data_science_101', methods=['GET'])
+def ds_bootcamp():
+    return render_template('ds_bc.html')
